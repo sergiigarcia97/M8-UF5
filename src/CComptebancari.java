@@ -15,7 +15,7 @@ public class CComptebancari {
     private int numero;
     private CPersona propietari;
     private float saldo;
-    private static int saldo_inicial=100;
+    private static int saldo_inicial=10;
     private static int seguent_compte=1234;
     
     public static void modificarSaldoInicial(int num){
