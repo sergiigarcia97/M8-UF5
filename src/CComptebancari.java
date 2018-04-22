@@ -104,4 +104,8 @@ public class CComptebancari {
         CComptebancari.seguent_compte = seguent_compte;
     }
     
+    public void saludo2(){
+        System.out.println("saluditooos");
+    }
+    
 }
