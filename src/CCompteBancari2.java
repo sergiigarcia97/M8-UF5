@@ -10,5 +10,5 @@
  * @author user
  */
 public class CCompteBancari2 {
-    private String up;
+  private String up;
 }
