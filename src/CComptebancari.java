@@ -105,7 +105,7 @@ public class CComptebancari {
     }
     
     public void saludo(){
-        System.out.println("Saludooss");
+        System.out.println("Saludoooss");
     }
     
 }
